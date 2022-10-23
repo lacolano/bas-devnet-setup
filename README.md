@@ -1,4 +1,4 @@
-BAS DevNet Setup
+LACOLANO DevNet Setup
 ================
 
 This repository contains scripts for running an independent instance of BAS.
